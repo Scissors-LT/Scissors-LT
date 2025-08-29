@@ -33,13 +33,13 @@ I dont know whats going
 
 <div style="display: flex; align-items: center;">
   <div>
-    <img src="./images/thinkpad.svg" width="40">
-    <img src="./images/debian.svg" width="40">
-    <img src="./images/kde.svg" width="40"><br>
-    <img src="./images/ce.svg" width="40">
-    <img src="./images/Estinated_sign.svg" width="40">
+    <img src="./images/thinkpad.svg" width="60">
+    <img src="./images/debian.svg" width="60">
+    <img src="./images/kde.svg" width="60"><br>
+    <img src="./images/ce.svg" width="60">
+    <img src="./images/Estimated_sign.svg" width="60">
   </div>
   <div style="margin-left:20px;">
-    <img src="./images/barcode.svg" width="150">
+    <img src="./images/barcode.svg" width="250">
   </div>
 </div>
