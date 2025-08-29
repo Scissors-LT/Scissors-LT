@@ -9,7 +9,7 @@ I dont know whats going
  <img src="https://komarev.com/ghpvc/?username=Scissors-LT&color=ff69b4">
 </p>
 <hr>
-## cat
+<h2>cat</h2>
 <pre>
  ╱|、
 (˚ˎ 。7  
