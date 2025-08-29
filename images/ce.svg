@@ -4,37 +4,16 @@
    viewBox="0 0 576 576"
    version="1.1"
    id="svg1"
-   sodipodi:docname="ce.svg"
    width="576"
    height="576"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
   <defs
      id="defs1" />
-  <sodipodi:namedview
-     id="namedview1"
-     pagecolor="#505050"
-     bordercolor="#eeeeee"
-     borderopacity="1"
-     inkscape:showpageshadow="0"
-     inkscape:pageopacity="0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#505050">
-    <inkscape:page
-       x="0"
-       y="0"
-       width="576"
-       height="576"
-       id="page2"
-       margin="0"
-       bleed="0" />
-  </sodipodi:namedview>
   <title
      id="title1">CE</title>
   <path
-     d="M 24,20.53 V 17.94 A 6,6 0 0 1 23.143,18 6,6 0 0 1 17.281,13.286 h 5.005 V 10.715 H 17.28 A 6,6 0 0 1 24,6.06 V 3.47 A 9,9 0 0 0 23.143,3.428 8.571,8.571 0 1 0 24,20.528 M 0,12 a 8.57,8.57 0 0 0 9.486,8.524 V 17.93 Q 9.038,18 8.571,18 A 6,6 0 1 1 9.486,6.07 V 3.477 A 9,9 0 0 0 8.571,3.429 8.57,8.57 0 0 0 0,12"
+     d="M 573.91304,412.38886 V 350.45408 A 143.47826,143.47826 0 0 1 553.41957,351.88886 143.47826,143.47826 0 0 1 413.24131,239.16278 H 532.92609 V 177.68234 H 413.21739 A 143.47826,143.47826 0 0 1 573.91304,66.367129 V 4.4323478 A 215.21739,215.21739 0 0 0 553.41957,3.428 204.95869,204.95869 0 1 0 573.91304,412.34103 M 1.2795229e-5,208.4106 A 204.93478,204.93478 0 0 0 226.83914,412.24538 v -62.03043 q -10.71305,1.67391 -21.88044,1.67391 A 143.47826,143.47826 0 1 1 226.83914,66.606259 V 4.5997391 A 215.21739,215.21739 0 0 0 204.9587,3.451913 204.93478,204.93478 0 0 0 1.2795229e-5,208.4106"
      id="path1"
-     style="fill:#ffffff" />
+     style="fill:#ffffff;stroke-width:23.913" />
 </svg>
