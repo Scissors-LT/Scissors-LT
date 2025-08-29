@@ -28,3 +28,18 @@ I dont know whats going
   <img src="./images/firefoxget.gif" width="88" height="31">
  </a>
 </p>
+
+
+
+<div style="display: flex; align-items: center;">
+  <div>
+    <img src="./images/thinkpad.svg" width="40">
+    <img src="./images/debian.svg" width="40">
+    <img src="./images/kde.svg" width="40"><br>
+    <img src="./images/ce.svg" width="40">
+    <img src="./images/Estinated_sign.svg" width="40">
+  </div>
+  <div style="margin-left:20px;">
+    <img src="./images/barcode.svg" width="150">
+  </div>
+</div>
