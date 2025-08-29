@@ -33,14 +33,14 @@ I dont know whats going
 <table>
   <tr>
     <td>
-    <img src="./images/thinkpad.svg" width="200">
+    <img src="./images/thinkpad.svg" width="320"><br>
     <img src="./images/debian.svg" width="60">
-    <img src="./images/kde.svg" width="60">
-    <img src="./images/ce.svg" width="60">
-    <img src="./images/Estimated_sign.svg" width="60">
+    <img src="./images/kde.svg" width="70">
+    <img src="./images/ce.svg" width="100">
+    <img src="./images/Estimated_sign.svg" width="80">
  </td>
     <td>
-      <img src="./images/barcode.svg" width="250">
+      <img src="./images/barcode.svg" width="350">
     </td>
   </tr>
 </table>
