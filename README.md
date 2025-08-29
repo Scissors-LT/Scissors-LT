@@ -29,16 +29,24 @@ I dont know whats going
  </a>
 </p>
 
-
-<p>
-    <img src="./images/thinkpad.svg" width="320"><br>
-    <img src="./images/debian.svg" width="60">
-    <img src="./images/kde.svg" width="70">
-    <img src="./images/ce.svg" width="100">
-    <img src="./images/Estimated_sign.svg" width="80">
-</p>
+<table>
+  <tr>
+    <!-- Column 1, row 1: ThinkPad logo -->
     <td>
+      <img src="./images/thinkpad.svg" width="315">
+    </td>
+    <!-- Column 2, rowspan 2: big barcode -->
+    <td rowspan="2" valign="top">
       <img src="./images/barcode.svg" width="350">
+    </td>
+  </tr>
+  <tr>
+    <!-- Column 1, row 2: small icons grid -->
+    <td>
+      <img src="./images/debian.svg" width="60">
+      <img src="./images/kde.svg" width="70">
+      <img src="./images/ce.svg" width="102">
+      <img src="./images/Estimated_sign.svg" width="80">
     </td>
   </tr>
 </table>
