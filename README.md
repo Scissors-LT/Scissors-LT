@@ -30,15 +30,13 @@ I dont know whats going
 </p>
 
 
-<table>
-  <tr>
-    <td>
+<p>
     <img src="./images/thinkpad.svg" width="320"><br>
     <img src="./images/debian.svg" width="60">
     <img src="./images/kde.svg" width="70">
     <img src="./images/ce.svg" width="100">
     <img src="./images/Estimated_sign.svg" width="80">
- </td>
+</p>
     <td>
       <img src="./images/barcode.svg" width="350">
     </td>
