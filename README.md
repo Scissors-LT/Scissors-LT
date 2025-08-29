@@ -11,4 +11,4 @@ I dont know whats going on
  じしˍ,)ノ
 </pre>
 
-![pushen](./images/devils_button.gif)
+![pushen](./images/devils_button.gif) ![gpl](./images/gplv3.gif) ![firefox](./images/firefoxget.gif)
