@@ -18,12 +18,19 @@
      y="0px"
      viewBox="0 0 234 142"
      version="1.1">
+    <rect
+       style="fill:#ffffff;stroke-width:0.916329"
+       id="rect1"
+       width="212.73724"
+       height="122.20427"
+       x="0.0021321177"
+       y="0.00046014786" />
     <g
        transform="translate(-1.2614396,0.00586204)"
-       style="fill:#ffffff;fill-opacity:1"
+       style="fill:#000000;fill-opacity:1"
        id="g1">
       <text
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:normal;font-family:Roboto;fill:#ffffff;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:normal;font-family:Roboto;fill:#000000;fill-opacity:1"
          text-anchor="start"
          x="0"
          y="122"
@@ -31,7 +38,7 @@
     </g>
     <g
        transform="translate(22.73856,0.00586204)"
-       style="fill:#ffffff;fill-opacity:1"
+       style="fill:#000000;fill-opacity:1"
        id="g3">
       <rect
          x="0"
@@ -39,16 +46,16 @@
          width="2"
          height="112"
          id="rect2"
-         style="fill:#ffffff;fill-opacity:1" />
+         style="fill:#000000;fill-opacity:1" />
       <rect
          x="4"
          y="0"
          width="2"
          height="112"
          id="rect3"
-         style="fill:#ffffff;fill-opacity:1" />
+         style="fill:#000000;fill-opacity:1" />
       <text
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:normal;font-family:Roboto;fill:#ffffff;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:normal;font-family:Roboto;fill:#000000;fill-opacity:1"
          text-anchor="middle"
          x="3"
          y="134"
@@ -56,7 +63,7 @@
     </g>
     <g
        transform="translate(28.73856,0.00586204)"
-       style="fill:#ffffff;fill-opacity:1"
+       style="fill:#000000;fill-opacity:1"
        id="g15">
       <rect
          x="6"
@@ -64,86 +71,86 @@
          width="4"
          height="100"
          id="rect4"
-         style="fill:#ffffff;fill-opacity:1" />
+         style="fill:#000000;fill-opacity:1" />
       <rect
          x="12"
          y="0"
          width="2"
          height="100"
          id="rect5"
-         style="fill:#ffffff;fill-opacity:1" />
+         style="fill:#000000;fill-opacity:1" />
       <rect
          x="22"
          y="0"
          width="2"
          height="100"
          id="rect6"
-         style="fill:#ffffff;fill-opacity:1" />
+         style="fill:#000000;fill-opacity:1" />
       <rect
          x="26"
          y="0"
          width="2"
          height="100"
          id="rect7"
-         style="fill:#ffffff;fill-opacity:1" />
+         style="fill:#000000;fill-opacity:1" />
       <rect
          x="30"
          y="0"
          width="2"
          height="100"
          id="rect8"
-         style="fill:#ffffff;fill-opacity:1" />
+         style="fill:#000000;fill-opacity:1" />
       <rect
          x="36"
          y="0"
          width="6"
          height="100"
          id="rect9"
-         style="fill:#ffffff;fill-opacity:1" />
+         style="fill:#000000;fill-opacity:1" />
       <rect
          x="46"
          y="0"
          width="4"
          height="100"
          id="rect10"
-         style="fill:#ffffff;fill-opacity:1" />
+         style="fill:#000000;fill-opacity:1" />
       <rect
          x="54"
          y="0"
          width="2"
          height="100"
          id="rect11"
-         style="fill:#ffffff;fill-opacity:1" />
+         style="fill:#000000;fill-opacity:1" />
       <rect
          x="58"
          y="0"
          width="2"
          height="100"
          id="rect12"
-         style="fill:#ffffff;fill-opacity:1" />
+         style="fill:#000000;fill-opacity:1" />
       <rect
          x="62"
          y="0"
          width="8"
          height="100"
          id="rect13"
-         style="fill:#ffffff;fill-opacity:1" />
+         style="fill:#000000;fill-opacity:1" />
       <rect
          x="78"
          y="0"
          width="2"
          height="100"
          id="rect14"
-         style="fill:#ffffff;fill-opacity:1" />
+         style="fill:#000000;fill-opacity:1" />
       <rect
          x="82"
          y="0"
          width="2"
          height="100"
          id="rect15"
-         style="fill:#ffffff;fill-opacity:1" />
+         style="fill:#000000;fill-opacity:1" />
       <text
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:normal;font-family:Roboto;fill:#ffffff;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:normal;font-family:Roboto;fill:#000000;fill-opacity:1"
          text-anchor="middle"
          x="42"
          y="122"
@@ -151,7 +158,7 @@
     </g>
     <g
        transform="translate(112.73856,0.00586204)"
-       style="fill:#ffffff;fill-opacity:1"
+       style="fill:#000000;fill-opacity:1"
        id="g17">
       <rect
          x="2"
@@ -159,16 +166,16 @@
          width="2"
          height="112"
          id="rect16"
-         style="fill:#ffffff;fill-opacity:1" />
+         style="fill:#000000;fill-opacity:1" />
       <rect
          x="6"
          y="0"
          width="2"
          height="112"
          id="rect17"
-         style="fill:#ffffff;fill-opacity:1" />
+         style="fill:#000000;fill-opacity:1" />
       <text
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:normal;font-family:Roboto;fill:#ffffff;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:normal;font-family:Roboto;fill:#000000;fill-opacity:1"
          text-anchor="middle"
          x="5"
          y="134"
@@ -176,7 +183,7 @@
     </g>
     <g
        transform="translate(122.73856,0.00586204)"
-       style="fill:#ffffff;fill-opacity:1"
+       style="fill:#000000;fill-opacity:1"
        id="g29">
       <rect
          x="0"
@@ -184,86 +191,86 @@
          width="2"
          height="100"
          id="rect18"
-         style="fill:#ffffff;fill-opacity:1" />
+         style="fill:#000000;fill-opacity:1" />
       <rect
          x="4"
          y="0"
          width="2"
          height="100"
          id="rect19"
-         style="fill:#ffffff;fill-opacity:1" />
+         style="fill:#000000;fill-opacity:1" />
       <rect
          x="14"
          y="0"
          width="6"
          height="100"
          id="rect20"
-         style="fill:#ffffff;fill-opacity:1" />
+         style="fill:#000000;fill-opacity:1" />
       <rect
          x="22"
          y="0"
          width="2"
          height="100"
          id="rect21"
-         style="fill:#ffffff;fill-opacity:1" />
+         style="fill:#000000;fill-opacity:1" />
       <rect
          x="28"
          y="0"
          width="6"
          height="100"
          id="rect22"
-         style="fill:#ffffff;fill-opacity:1" />
+         style="fill:#000000;fill-opacity:1" />
       <rect
          x="38"
          y="0"
          width="2"
          height="100"
          id="rect23"
-         style="fill:#ffffff;fill-opacity:1" />
+         style="fill:#000000;fill-opacity:1" />
       <rect
          x="42"
          y="0"
          width="6"
          height="100"
          id="rect24"
-         style="fill:#ffffff;fill-opacity:1" />
+         style="fill:#000000;fill-opacity:1" />
       <rect
          x="52"
          y="0"
          width="2"
          height="100"
          id="rect25"
-         style="fill:#ffffff;fill-opacity:1" />
+         style="fill:#000000;fill-opacity:1" />
       <rect
          x="56"
          y="0"
          width="6"
          height="100"
          id="rect26"
-         style="fill:#ffffff;fill-opacity:1" />
+         style="fill:#000000;fill-opacity:1" />
       <rect
          x="66"
          y="0"
          width="2"
          height="100"
          id="rect27"
-         style="fill:#ffffff;fill-opacity:1" />
+         style="fill:#000000;fill-opacity:1" />
       <rect
          x="70"
          y="0"
          width="2"
          height="100"
          id="rect28"
-         style="fill:#ffffff;fill-opacity:1" />
+         style="fill:#000000;fill-opacity:1" />
       <rect
          x="78"
          y="0"
          width="2"
          height="100"
          id="rect29"
-         style="fill:#ffffff;fill-opacity:1" />
+         style="fill:#000000;fill-opacity:1" />
       <text
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:normal;font-family:Roboto;fill:#ffffff;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:normal;font-family:Roboto;fill:#000000;fill-opacity:1"
          text-anchor="middle"
          x="42"
          y="122"
@@ -271,7 +278,7 @@
     </g>
     <g
        transform="translate(206.73856,0.00586204)"
-       style="fill:#ffffff;fill-opacity:1"
+       style="fill:#000000;fill-opacity:1"
        id="g31">
       <rect
          x="0"
@@ -279,16 +286,16 @@
          width="2"
          height="112"
          id="rect30"
-         style="fill:#ffffff;fill-opacity:1" />
+         style="fill:#000000;fill-opacity:1" />
       <rect
          x="4"
          y="0"
          width="2"
          height="112"
          id="rect31"
-         style="fill:#ffffff;fill-opacity:1" />
+         style="fill:#000000;fill-opacity:1" />
       <text
-         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:normal;font-family:Roboto;fill:#ffffff;fill-opacity:1"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20px;line-height:normal;font-family:Roboto;fill:#000000;fill-opacity:1"
          text-anchor="middle"
          x="3"
          y="134"
