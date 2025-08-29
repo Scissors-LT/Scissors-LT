@@ -2,11 +2,13 @@
 
 I dont know whats going 
 
+<hr>
+
 <p align="center">
  <img src="https://img.shields.io/badge/im_really-really_dumb-red" alt="im really dumb :P">
  <img src="https://komarev.com/ghpvc/?username=Scissors-LT&color=ff69b4">
 </p>
-
+<hr>
 ### cat
 <pre>
  ╱|、
