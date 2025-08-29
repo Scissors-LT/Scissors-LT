@@ -30,16 +30,18 @@ I dont know whats going
 </p>
 
 
-
-<div style="display: flex; align-items: center;">
-  <div>
+<table>
+  <tr>
+    <td>
     <img src="./images/thinkpad.svg" width="60">
     <img src="./images/debian.svg" width="60">
     <img src="./images/kde.svg" width="60"><br>
     <img src="./images/ce.svg" width="60">
     <img src="./images/Estimated_sign.svg" width="60">
-  </div>
-  <div style="margin-left:40px;">
-    <img src="./images/barcode.svg" width="250">
-  </div>
-</div>
+ </td>
+    <td>
+      <img src="./images/barcode.svg" width="250">
+    </td>
+  </tr>
+</table>
+
