@@ -39,7 +39,7 @@ I dont know whats going
     <img src="./images/ce.svg" width="60">
     <img src="./images/Estimated_sign.svg" width="60">
   </div>
-  <div style="margin-left:20px;">
+  <div style="margin-left:40px;">
     <img src="./images/barcode.svg" width="250">
   </div>
 </div>
