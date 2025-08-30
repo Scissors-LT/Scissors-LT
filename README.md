@@ -1,6 +1,6 @@
 # hiiiiii
 
-I dont know whats going 
+I dont know whats going on
 
 <hr>
 
