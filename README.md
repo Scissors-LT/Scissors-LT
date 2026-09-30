@@ -1,9 +1,10 @@
-# hiiiiii
+# about me
 
-I dont know whats going on
+Hi, I am willow :P I am dumb as fuck and cant program for shit.
+
+I am a professional LARPer. I own a LARPpad t440p, I have a HPE proliant dl380 that I guess is my """homelab""" and I also run linux as much as I can because holy fucking larp bro.......
 
 <hr>
-
 <p align="center">
  <img src="https://img.shields.io/badge/im_really-really_dumb-red" alt="im really dumb :P">
  <img src="https://komarev.com/ghpvc/?username=Scissors-LT&color=ff69b4">
@@ -17,6 +18,8 @@ I dont know whats going on
  じしˍ,)ノ
 </pre>
 
+
+
 <p align="center">
  <a href="https://pusheen.com/category/comics/" target="_blank">
   <img src="./images/devils_button.gif" width="88" height="31">
@@ -29,7 +32,10 @@ I dont know whats going on
  </a>
 </p>
 
- <table align="center">
+
+
+
+ <table align="center" border=0px>
    <tr>
      <td>
        <img src="./images/thinkpad.svg" width="157.5">
