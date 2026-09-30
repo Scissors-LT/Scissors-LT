@@ -30,6 +30,15 @@ I am a professional LARPer. I own a LARPpad t440p, I have a HPE proliant dl380 t
  <a href="https://www.firefox.com/en-GB/thanks/" target="_blank">
   <img src="./images/firefoxget.gif" width="88" height="31">
  </a>
+ <a href="https://transactual.org.uk/" target="_blank">
+  <img src="./images/transnow2.gif" width="88" height="31">
+ </a>
+  <a href="https://store.steampowered.com/app/1451940/NEEDY_STREAMER_OVERLOAD/" target="_blank">
+  <img src="./images/unknown_003.png" width="88" height="31">
+ </a>
+ <a href="https://www.vocaloid.com/en/products/show/v6vb_hatsune_miku_v6_c" target="_blank">
+  <img src="./images/vocaloid.gif" width="88" height="31">
+ </a>
 </p>
 
 
